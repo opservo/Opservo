@@ -7,6 +7,5 @@ Opservo provides plain-English server monitoring, intelligent troubleshooting, a
 - Identify potential root causes
 - Apply approved fixes
 - Monitor uptime and system health
-- Learn More
 
-[Visit Opservo](https://getopservo.com/welcome)
+ Learn More : [Visit Opservo](https://getopservo.com/welcome)
